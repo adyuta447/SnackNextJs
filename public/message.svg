@@ -1,0 +1,16 @@
+<svg
+              width="56"
+              height="56"
+              viewBox="0 0 56 56"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect width="56" height="56" rx="8" fill="white" />
+              <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M22 37.8042L28.0868 34H36C37.1046 34 38 33.1046 38 32V20C38 18.8954 37.1046 18 36 18H20C18.8954 18 18 18.8954 18 20V32C18 33.1046 18.8954 34 20 34H22V37.8042ZM27.5132 32L24 34.1958V32H20V20H36V32H27.5132Z"
+                fill="#00B1B9"
+              />
+            </svg>
+
